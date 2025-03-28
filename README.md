@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Customer Segmentation Analysis in Lisbon Hotels.png" width="100%">
+  <img src="header.png" width="100%">
 </p>
 
 <h3 align="center">📍 University: Nova IMS</h3>
