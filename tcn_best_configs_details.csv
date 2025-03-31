@@ -1,2 +1,2 @@
 product_id,winsorize,features,metrics,method,best_params,validation_predictions
-P1,True,"['MAB_ELE_SHP840', 'PRI27276_org', 'MAB_ELE_PRO276']","{'RMSE': 0.4174458408093862, 'MAPE': 315.07144256761046, 'R2': 0.3458710127290472}",walkforward,"{'nb_filters': 32, 'kernel_size': 2, 'dilations': [1, 2, 4], 'dropout_rate': 0.1, 'return_sequences': False}","[0.37735307, 0.16498326, 0.34649253, 0.8151345, 0.08646311, 1.6034853, 1.2511284]"
+P14,True,"['PRO27392_org', 'PRO28380_org']","{'RMSE': 0.686256191950619, 'MAPE': 102.92295799260754, 'R2': 0.5224922729802262}",walkforward,"{'nb_filters': 32, 'kernel_size': 3, 'dilations': [1, 2, 4, 8], 'dropout_rate': 0.2, 'return_sequences': False}","[-0.15374492, 0.10000765, -0.27349797, -0.0320071, -0.09693324, 1.0974444, -0.20615542]"
