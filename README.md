@@ -19,7 +19,7 @@
 
 </div>
 
-Our goal is to conduct sales forecasting monthly for 10 months, from May 2022 until February 2023, 
+In this project, our goal was to conduct sales forecasting monthly for 10 months, from May 2022 until February 2023, 
 selecting product groups from one business unit of the Smart Infrastructure division, with a specific 
 focus on Germany, the largest country for this business unit.   
 
